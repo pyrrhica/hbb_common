@@ -100,8 +100,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rust.gtrotech.com"];
-pub const RS_PUB_KEY: &str = "bcdvv8IzlVmGgy5EUyUdKooATNLcJylfkn49tqEEF84=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["ageart.synology.me"];
+pub const RS_PUB_KEY: &str = "I9jBs88vX3wv2mnRWbvPFHqA4dxrGmO+gAtU++VtL90==";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
